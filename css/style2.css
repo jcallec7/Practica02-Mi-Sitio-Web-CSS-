@@ -1,0 +1,67 @@
+header {
+
+    border: 2px solid#000;
+    margin-bottom: 7px;
+    border-radius: 10px;
+    padding:5px;
+    
+
+}
+
+.navegador{
+    float: left;
+    width: 190px;
+    height: 100%;
+    border: 2px solid#000;
+    border-radius: 10px;
+    padding:5px;
+    
+}
+
+nav{
+    float: right;
+    width: 190px;
+    height: 100%;
+    border: 2px solid#000;
+    border-radius: 10px;
+    padding:5px;
+    
+}
+
+
+section{
+
+    height: 733px;
+    margin-left:210px;
+    margin-right: 210px;
+    border: 2px solid#000;
+    border-radius: 10px;
+    padding:5px;
+
+}
+
+aside{
+    float: left;
+    width: 500px;
+    height: 380px;
+    float: bottom;
+}
+
+aside{
+    margin-left: 210px;
+    border: 2px solid#000;
+    border-radius: 10px;
+    padding:5px;
+}
+
+footer{
+    margin-left: 210px;
+    margin-right: 210px;
+    margin-top: 7px;
+    border: 2px solid#000;
+    border-radius: 10px;
+    padding:5px;
+    
+     
+}
+
