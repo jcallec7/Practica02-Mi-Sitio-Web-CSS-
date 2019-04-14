@@ -4,6 +4,7 @@ header {
     margin-bottom: 7px;
     border-radius: 10px;
     padding:5px;
+    background-color: #000000;
     
 
 }
@@ -38,20 +39,6 @@ section{
     border-radius: 10px;
     padding:5px;
 
-}
-
-aside{
-    float: left;
-    width: 500px;
-    height: 380px;
-    float: bottom;
-}
-
-aside{
-    margin-left: 210px;
-    border: 2px solid#000;
-    border-radius: 10px;
-    padding:5px;
 }
 
 footer{

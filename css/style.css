@@ -1,8 +1,10 @@
 header {
 
     border: 2px solid#000;
+    margin-bottom: 7px;
     border-radius: 10px;
     padding:5px;
+    background-color: #000000;
     
 
 }
@@ -13,35 +15,52 @@ nav{
     height: 100%;
     border: 2px solid#000;
     border-radius: 10px;
-    padding:5px;
+    padding:5px;   
+}
+
+nav.navegador1{
+
+    position:relative;
+
+    float: bottom;
+
+}
+
+nav.navegador2{
+
+    position:absolute;
+    margin-top: 210px;
+    height: 200px;
+    margin-left: 0%;
+    float: bottom;
     
 }
 
+nav.navegador3{
+
+    position:absolute;
+    margin-top: 432px;
+    height: 200px;
+    margin-left: 0%;
+    float: bottom;
+    
+}
 
 section{
-
     margin-left:210px;
-    
-    border: 2px solid#000;
-    border-radius: 10px;
-    padding:5px;
-
-}
-
-aside{
-    margin-left: 210px;
+    margin-bottom: 7px;
     border: 2px solid#000;
     border-radius: 10px;
     padding:5px;
 }
+
+
 
 footer{
     margin-left: 210px;
-    margin-bottom: 0px;
+    margin-top: 7px;
     border: 2px solid#000;
     border-radius: 10px;
-    padding:5px;
-    
-     
+    padding:5px;   
 }
 
