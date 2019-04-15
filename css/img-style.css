@@ -3,13 +3,57 @@
     height: 100%;
 }
 
-#about {
+#about, #contactos {
     display: block;
     margin: auto;
-    width: 50%;
-    height: 50%;
-    text-align: center;
+    width: 30%;
+    height: 30%;
 }
+
+#single{
+    width: 380px;
+    height: 380px;
+}
+
+#video{
+    width:560px; 
+    height:315px;
+}
+
+#eventos{
+    margin-left: 30px;
+    width: 30%;
+    height: 30%; 
+}
+
+
+
+table {
+    width: 100%;
+  }
+  
+  th {
+    height: 50px;
+  }
+
+  table {
+    border: 1px solid black;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: center;
+    padding: 5px;
+  }
+  
+  tr:nth-child(even){background-color: #f2f2f2}
+  
+  th {
+    background-color: #ceddef;
+    color: #000000;
+}
+
+
 
 
 

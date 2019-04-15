@@ -1,6 +1,8 @@
 header {
 
     border: 2px solid#000;
+    width: 99%;
+    height: 99%;
     margin-bottom: 7px;
     border-radius: 10px;
     padding:5px;
@@ -22,6 +24,7 @@ header {
 
 nav{
     float: right;
+    background-color: #ceddef;
     width: 190px;
     height: 100%;
     border: 2px solid#000;
