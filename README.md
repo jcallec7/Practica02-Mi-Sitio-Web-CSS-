@@ -59,6 +59,7 @@ Finalmente ponemos a prueba nuestros archivos de CSS para comprobar que no tenga
 ![26](https://github.com/jcallec7/Practica02-Mi-Sitio-Web-CSS-/blob/master/captures/26.png)
 ![27](https://github.com/jcallec7/Practica02-Mi-Sitio-Web-CSS-/blob/master/captures/27.png)
 ![28](https://github.com/jcallec7/Practica02-Mi-Sitio-Web-CSS-/blob/master/captures/28.png)
+![29](https://github.com/jcallec7/Practica02-Mi-Sitio-Web-CSS-/blob/master/captures/29.png)
 
 
 
