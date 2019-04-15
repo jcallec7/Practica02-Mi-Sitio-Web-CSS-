@@ -1,4 +1,3 @@
-a:hover, li a:hover{
-    background-color:  #0968BD;
+a:hover, a p:hover{
+    background-color:#000000; opacity: 0.7;
 }
-

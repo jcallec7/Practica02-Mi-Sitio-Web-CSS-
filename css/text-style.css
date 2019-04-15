@@ -1,10 +1,10 @@
 section h1, h2, h4, h5, nav h1{
-    color: #0968BD;
+    color: #2f2199;
     font-family:Arial, Helvetica, sans-serif;
     
 }
 
-section p, nav p{
+section p, nav p, footer{
     font-family:Arial, Helvetica, sans-serif;
     text-align: justify;
 }
